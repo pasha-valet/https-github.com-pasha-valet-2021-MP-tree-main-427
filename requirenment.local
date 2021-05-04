@@ -1,0 +1,13 @@
+#environment linting  Если не pycharm
+pylint
+autopep8
+
+#environment stell
+ipython
+jupyter
+socket
+threading
+queue
+sys
+random
+os
